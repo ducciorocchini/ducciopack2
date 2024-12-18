@@ -5,7 +5,8 @@ complex <- function(x){
   else if(x<0){
     print("This is a negative number")
    }
-  else
+  else{
    print("This is just zero! Nor positive nor negative! Have you studied maths at school?")
+  }
   }
 
